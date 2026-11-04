@@ -42,7 +42,25 @@ Full weekly deals breakdown: [St-Hubert Deals, Coupons & Tuesday Specials](https
 
 ---
 
-## 🌐 4. Official Canadian Web 2.0 Identity & Citations
+## 📰 4. Official Medium Publication & Canadian Food Guides
+
+Follow our verified editorial publication and in-depth Canadian culinary price breakdowns on **Medium**:
+
+* **Official Medium Profile:** [@sthubertmenuguide on Medium](https://medium.com/@sthubertmenuguide)
+* **Live Medium RSS Feed:** [https://medium.com/feed/@sthubertmenuguide](https://medium.com/feed/@sthubertmenuguide)
+
+### Featured Deep-Dive Stories & Pricing Analyses:
+1. **Takeout & Drive-Thru Guide:** [St-Hubert Dining Room vs Express Counter & Drive-Thru: Takeout Savings Guide](https://medium.com/@sthubertmenuguide/st-hubert-dining-room-vs-express-counter-drive-thru-takeout-savings-guide-c014ba7a684e)
+2. **Combos Value Analysis:** [Chicken & Ribs Combos vs Classic Dinners at St-Hubert: Best Value Breakdown](https://medium.com/@sthubertmenuguide/chicken-ribs-combos-vs-classic-dinners-at-st-hubert-best-value-breakdown-9a982309e9de)
+3. **Tuesday Specials:** [St-Hubert Tuesday Specials & $5 Kids Meals: Family Dining Budget Guide in Canada](https://medium.com/@sthubertmenuguide/st-hubert-tuesday-specials-5-kids-meals-family-dining-budget-guide-in-canada-4d98b83f66e6)
+4. **Poutine Master Guide:** [Authentic Quebec Rotisserie Poutine: Why St-Hubert Gravy & Curds Rule Canadian Comfort Food](https://medium.com/@sthubertmenuguide/authentic-quebec-rotisserie-poutine-why-st-huberts-gravy-curds-rule-canadian-comfort-food-5e207834dd71)
+5. **Quarter Chicken Breakdown:** [The Ultimate St-Hubert Quarter Chicken Meal Guide: Portions, Pricing & Hidden Savings](https://medium.com/@sthubertmenuguide/the-ultimate-st-hubert-quarter-chicken-meal-guide-portions-pricing-hidden-savings-in-canada-0984b8fb0b83)
+6. **Heritage Desserts:** [Traditional Quebec Desserts at St-Hubert: Sugar Pie (Tarte au Sucre) vs Pouding Chomeur](https://medium.com/@sthubertmenuguide/traditional-quebec-desserts-at-st-hubert-sugar-pie-tarte-au-sucre-vs-pouding-chomeur-review-e20d60fd1535)
+7. **Quebec Meat Pie:** [St-Hubert Tourtière (Quebec Meat Pie) Price & Tradition Guide 2026](https://medium.com/@sthubertmenuguide/st-hubert-tourti%C3%A8re-quebec-meat-pie-price-tradition-guide-2026-0e82aa3fc237)
+
+---
+
+## 🌐 5. Official Canadian Web 2.0 Identity & Citations
 
 * **Canonical Portal:** [St-Hubert Menu & Prices Canada](https://st-hubertmenu.ca/)
 * **Wikipedia Entity:** [Wikipedia: St-Hubert (restaurant)](https://en.wikipedia.org/wiki/St-Hubert_(restaurant))
