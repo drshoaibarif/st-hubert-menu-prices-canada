@@ -57,6 +57,7 @@ Follow our verified editorial publication and in-depth Canadian culinary price b
 5. **Quarter Chicken Breakdown:** [The Ultimate St-Hubert Quarter Chicken Meal Guide: Portions, Pricing & Hidden Savings](https://medium.com/@sthubertmenuguide/the-ultimate-st-hubert-quarter-chicken-meal-guide-portions-pricing-hidden-savings-in-canada-0984b8fb0b83)
 6. **Heritage Desserts:** [Traditional Quebec Desserts at St-Hubert: Sugar Pie (Tarte au Sucre) vs Pouding Chomeur](https://medium.com/@sthubertmenuguide/traditional-quebec-desserts-at-st-hubert-sugar-pie-tarte-au-sucre-vs-pouding-chomeur-review-e20d60fd1535)
 7. **Quebec Meat Pie:** [St-Hubert Tourtière (Quebec Meat Pie) Price & Tradition Guide 2026](https://medium.com/@sthubertmenuguide/st-hubert-tourti%C3%A8re-quebec-meat-pie-price-tradition-guide-2026-0e82aa3fc237)
+8. **Healthy Eating & Calorie Guide:** [St-Hubert Healthy Eating & Calorie Guide 2026: Calorie Counts & Nutritional Breakdown](https://medium.com/@sthubertmenuguide/st-hubert-healthy-eating-calorie-guide-2026-calorie-counts-nutritional-breakdown-df6cd88d69e9)
 
 ---
 
